@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+data:
+  index.html: |
+    Experiment!
+metadata:
+  name: index-experiment

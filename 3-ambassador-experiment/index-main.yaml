@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+data:
+  index.html: |
+    Main!
+metadata:
+  name: index-main
